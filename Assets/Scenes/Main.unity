@@ -150,6 +150,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7789141805cfcd4da28a5cb9e543d9c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  massNodes:
+  - mass: 0
+  - mass: 0
+  segments:
+  - data: []
+  - data: []
+  - data: []
 --- !u!4 &459266838
 Transform:
   m_ObjectHideFlags: 0
