@@ -13,6 +13,11 @@ namespace UnityFishSimulation
             public float3 pos;
             public float mass;
         }
+
+        public struct Segment
+        {
+
+        }
         [SerializeField] protected List<MassNode> massNodes = new List<MassNode>();
 
     }
